@@ -1,0 +1,12 @@
+h,
+h2,
+h3,
+h4,
+h5 {
+  font: 20px bold tahoma;
+  color: greenyellow;
+}
+ul {
+  font: 13px bold tahoma;
+  color: red;
+}
